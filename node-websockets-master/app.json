@@ -1,6 +1,6 @@
 {
   "name": "Node.js WebSocket Example",
   "description": "Part of the Using WebSockets on Heroku Tutorial",
-  "repository": "https://github.com/chtnym9/echo_web_scoket1/blob/master/node-websockets",
+  "repository": "https://github.com/chtnym9/echo_web_scoket1/echo_web_scoket1/node-websockets-master",
   "keywords": ["node", "websocket"]
 }
